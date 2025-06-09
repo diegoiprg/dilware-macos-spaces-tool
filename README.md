@@ -2,6 +2,8 @@
 
 ![Banner del proyecto](https://img.shields.io/badge/Hammerspoon%20Space%20Manager-%F0%9F%8C%90%20macOS%20automation-blueviolet?style=for-the-badge)
 
+![Versión](https://img.shields.io/badge/version-1.0.0-green.svg)
+
 Sistema personalizado para macOS que permite gestionar espacios virtuales (Spaces) con perfiles de uso como "personal" y "work", usando Hammerspoon.
 
 Incluye:
@@ -52,6 +54,29 @@ cp dilware-macos-spaces-tool/init.lua ~/.hammerspoon/init.lua
 1. Abre la app Hammerspoon.
 2. Presiona `Command + R` para recargar el script.
 3. Aparecerá el icono “Spaces 🧭” en la barra de menú.
+
+### Alternativa: Instalación automática
+
+También puedes usar el script `install.sh` incluido para automatizar la instalación:
+
+```bash
+curl -sL https://raw.githubusercontent.com/diegoiprg/dilware-macos-spaces-tool/main/install.sh | bash
+```
+
+Si prefieres descargar el archivo manualmente:
+
+1. Asegúrate de que el archivo `install.sh` esté en la raíz del proyecto.
+2. Hazlo ejecutable con el siguiente comando:
+
+   ```bash
+   chmod +x install.sh
+   ```
+
+3. Luego ejecútalo:
+
+   ```bash
+   ./install.sh
+   ```
 
 ---
 
