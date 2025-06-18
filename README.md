@@ -1,4 +1,4 @@
-# dilware-myself-macos-tool-mission-control-spaces
+# dilware-myself-macos-tool-mission-control-spaces-mission-control-spaces
 
 ![Banner del proyecto](https://img.shields.io/badge/Hammerspoon%20Space%20Manager-%F0%9F%8C%90%20macOS%20automation-blueviolet?style=for-the-badge)
 
@@ -45,8 +45,8 @@ Ir a `Preferencias del Sistema > Seguridad y privacidad > Privacidad`, y otorgar
 ### 3. Clonar el repositorio
 
 ```bash
-git clone https://github.com/diegoiprg/dilware-macos-spaces-tool.git
-cp dilware-macos-spaces-tool/init.lua ~/.hammerspoon/init.lua
+git clone https://github.com/diegoiprg/dilware-myself-macos-tool-mission-control-spaces.git
+cp dilware-myself-macos-tool-mission-control-spaces/init.lua ~/.hammerspoon/init.lua
 ```
 
 ### 4. Ejecutar Hammerspoon
@@ -60,7 +60,7 @@ cp dilware-macos-spaces-tool/init.lua ~/.hammerspoon/init.lua
 También puedes usar el script `install.sh` incluido para automatizar la instalación:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/diegoiprg/dilware-macos-spaces-tool/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/diegoiprg/dilware-myself-macos-tool-mission-control-spaces/main/install.sh | bash
 ```
 
 Si prefieres descargar el archivo manualmente:
