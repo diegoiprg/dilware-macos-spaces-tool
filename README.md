@@ -1,4 +1,4 @@
-# dilware-macos-spaces-tool
+# dilware-myself-macos-tool-mission-control-spaces
 
 ![Banner del proyecto](https://img.shields.io/badge/Hammerspoon%20Space%20Manager-%F0%9F%8C%90%20macOS%20automation-blueviolet?style=for-the-badge)
 
