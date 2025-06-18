@@ -1,6 +1,6 @@
 # 📦 CHANGELOG
 
-Registro de cambios del proyecto `dilware-macos-spaces-tool`.
+Registro de cambios del proyecto `dilware-myself-macos-tool-mission-control-spaces`.
 
 ---
 

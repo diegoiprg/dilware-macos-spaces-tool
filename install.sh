@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 
-echo "🚀 Instalando dilware-macos-spaces-tool..."
+echo "🚀 Instalando dilware-myself-macos-tool-mission-control-spaces..."
 
-REPO_DIR="$HOME/dilware-macos-spaces-tool"
+REPO_DIR="$HOME/dilware-myself-macos-tool-mission-control-spaces"
 HS_DIR="$HOME/.hammerspoon"
 INIT_FILE="init.lua"
 
 # Clonar el repositorio si no existe
 if [ ! -d "$REPO_DIR" ]; then
   echo "🔧 Clonando el repositorio en $REPO_DIR..."
-  git clone https://github.com/diegoiprg/dilware-macos-spaces-tool.git "$REPO_DIR"
+  git clone https://github.com/diegoiprg/dilware-myself-macos-tool-mission-control-spaces.git "$REPO_DIR"
 else
   echo "📁 El repositorio ya existe en $REPO_DIR, usando el existente."
 fi
